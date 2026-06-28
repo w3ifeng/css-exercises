@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.dos,
+.uno {
+    background-color: rgb(255,192,203);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif", serif;
+}
+
+#iduno {
+    color: blue;
+    font-size: 36px;
+}
+
+.dos {
+    font-size: 24px;
+}
+
+#iddos {
+    background-color: rgba(128, 248, 80, 0.5);
+    font-size: 26px;
+    font-weight: bold;
+}
